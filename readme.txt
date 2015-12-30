@@ -16,3 +16,5 @@ Following is the control flow of scripts:
 
 Note: replace.py is just a helping script used by replace.sh, 
 it is just changing headers of course.aiml files
+
+To run the bot, execute python chatbot.py
