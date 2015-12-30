@@ -1,3 +1,6 @@
+Tools used:
+	Pyaiml, Python 2.7, NLTK libraries, Kivy Graphics library
+
 Following is the control flow of scripts:
 
 1] python reduction.py:
